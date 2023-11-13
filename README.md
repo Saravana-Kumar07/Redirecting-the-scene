@@ -29,7 +29,7 @@ In File->Build settings and drop the both first scene and scene1 scene in the Sc
 Click the Build and run button in the Build settings and run the scene.
 
 ### Step 9: 
-The Sphere after touching the cube it will disappeared and Press the key [R] the redircting to the new scene that is scene1.
+The Sphere after touching the cube it will disappeared and Press the key [space] the redircting to the new scene that is scene1.
 ## PROGRAM:
 ```
 Developed by : Saravana Kumar S
@@ -76,13 +76,13 @@ public class CubeProgram : MonoBehaviour
 ```
 ## OUTPUT:
 ### SCENE BEFORE THE BALL HITS THE CUBE:
-<img src="out1.png" width=450>
+<img src="out1.png" width=500>
 
 ### SCENE AFTER THE BALL HITS THE CUBE:
-<img src="out3.png" width=450>
+<img src="out3.png" width=500>
 
 ### NEW SCENE AFTER REDIRECTING:
-<img src="out2.png" width=450>
+<img src="out2.png" width=500>
 
 ## RESULT:
 Thus, a scene is redirected in Unity engine using a C# program.
