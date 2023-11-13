@@ -76,13 +76,13 @@ public class CubeProgram : MonoBehaviour
 ```
 ## OUTPUT:
 ### SCENE BEFORE THE BALL HITS THE CUBE:
-<img src="out1.png" width=400>
+<img src="out1.png" width=450>
 
 ### SCENE AFTER THE BALL HITS THE CUBE:
-<img src="out3.png" width=400>
+<img src="out3.png" width=450>
 
 ### NEW SCENE AFTER REDIRECTING:
-<img src="out2.png" width=400>
+<img src="out2.png" width=450>
 
 ## RESULT:
 Thus, a scene is redirected in Unity engine using a C# program.
